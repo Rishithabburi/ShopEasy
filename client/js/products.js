@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/api/products";
+const API = "https://shopeasy-dp44.onrender.com/api/products";
 
 async function loadProducts() {
     try {
